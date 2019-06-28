@@ -1,0 +1,10 @@
+p{
+	font-weight: bold;
+	width: 200px;
+	height: 200px;
+	font-size: 15px;
+	background-color: #f00;
+	color: red;
+	border-radius: 20px;
+	
+}
